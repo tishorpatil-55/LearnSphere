@@ -28,4 +28,5 @@ LearnSphere is a full-stack **E-Learning Web Application** that allows students 
 ---
 
 ## 📂 Project Structure
+<img width="1917" height="918" alt="Screenshot 2025-12-03 200239" src="https://github.com/user-attachments/assets/1a559cce-d33a-440c-8913-3bde0b6de2c5" />
 
